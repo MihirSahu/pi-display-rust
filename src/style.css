@@ -1,0 +1,24 @@
+:root {
+  --overlay-light: #383B40;
+  --overlay-dark: #2D2F34;
+  --surface: #27292D;
+  --base: #1F2023;
+  --overflow: #010101;
+}
+
+* {
+  background-color: var(--surface);
+}
+
+.label1 {
+  font-size: xx-large;
+  font-weight: 500;
+  color: white;
+}
+
+.button1 {
+  font-size: large;
+  font-weight: 100;
+  color: white;
+  padding: 10px;
+}
